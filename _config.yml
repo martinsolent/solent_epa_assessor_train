@@ -1,8 +1,8 @@
-title: Just the Docs Template
+title: Solent DTS EPA Assessor Training
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://github.com/martinsolent/solent_epa_assessor_train
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
