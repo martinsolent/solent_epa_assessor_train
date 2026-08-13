@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: EPA AE1
+nav_order: 2
 ---
 
-# Solent EPA Assessor Training
+# EPA AE1
