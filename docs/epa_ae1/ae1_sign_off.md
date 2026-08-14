@@ -27,7 +27,7 @@ Before the project begins, assessors review and approve the project proposal to 
 This stage provides quality assurance and helps prevent projects that are either too limited or insufficiently aligned to the apprenticeship standard.
 
 
-{: .note } 
+{: .note }
 > The apprentice will already have discussed potential project ideas with their employer and agreed on a suitable option that aligns with the required learning outcomes. The chosen project should also be something the company is able and comfortable to share.
 
 
