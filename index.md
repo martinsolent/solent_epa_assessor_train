@@ -18,7 +18,4 @@ The video below provides an apprentice focused overview of both EPA assessments 
 <br>
 
 [EPA AE1 Guidance](https://martinsolent.github.io/solent_epa_assessor_train/docs/epa_ae1/){: .btn .btn-blue }
-
-<br>
-
 [EPA AE2 Guidance](https://martinsolent.github.io/solent_epa_assessor_train/docs/epa_ae2/){: .btn .btn-purple }
