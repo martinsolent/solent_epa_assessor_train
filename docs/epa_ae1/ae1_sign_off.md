@@ -26,17 +26,10 @@ Before the project begins, assessors review and approve the project proposal to 
 
 This stage provides quality assurance and helps prevent projects that are either too limited or insufficiently aligned to the apprenticeship standard.
 
-<br>
-
 {: .note }
 > The apprentice will already have discussed potential project ideas with their employer and agreed on a suitable option that aligns with the required learning outcomes. The chosen project should also be something the company is able and comfortable to share.
-
-
-{: .note }
-See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.
 
 [Work-based Project Proposal Template](../info/proposal_EPA_AE1_Temp_SE.docx)
 
 [Project Proposal Template Example](../info/proposal_EPA_AE1_Temp_SE.docx)
-<br>
 
