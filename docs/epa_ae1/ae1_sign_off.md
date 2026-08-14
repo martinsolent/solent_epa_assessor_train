@@ -29,7 +29,7 @@ This stage provides quality assurance and helps prevent projects that are either
 <br>
 
 {: .note }
-The apprentice will already have discussed potential project ideas with their employer and agreed on a suitable option that aligns with the required learning outcomes. The chosen project should also be something the company is able and comfortable to share.
+> The apprentice will already have discussed potential project ideas with their employer and agreed on a suitable option that aligns with the required learning outcomes. The chosen project should also be something the company is able and comfortable to share.
 
 
 <br>
