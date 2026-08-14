@@ -48,7 +48,7 @@ The project should be directly linked to the apprentice's occupational role and 
 <br>
 <br>
 
-![ofsted_logo](/DTS_ofated.png)
+![ofsted_logo](https://martinsolent.github.io/solent_epa_assessor_train/DTS_ofated.png)
 
 [Link to 2025 Ofsted Report](https://files.ofsted.gov.uk/v1/file/50270851)
 
