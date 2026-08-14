@@ -17,6 +17,15 @@ The project can address a problem, recurring issue, idea, or opportunity, and sh
 
 The video outlines expected timelines, the structure of the project proposal template, and how apprentices should map their work to KSBs. Assessors signing off proposals must check that the apprentice has proved project is feasible, valuable to the organisation, and provides convincing coverage of all required competencies.
 
+Before the project begins, assessors review and approve the project proposal to ensure that:
+
+* The project has sufficient scope and complexity.
+* The work is appropriate for EPA assessment.
+* Opportunities exist to demonstrate a broad range of KSBs.
+* The project can generate valid evidence for assessment.
+
+This stage provides quality assurance and helps prevent projects that are either too limited or insufficiently aligned to the apprenticeship standard.
+
 {: .note } 
 > The apprentice will already have discussed potential project ideas with their employer and agreed on a suitable option that aligns with the required learning outcomes. The chosen project should also be something the company is able and comfortable to share.
 

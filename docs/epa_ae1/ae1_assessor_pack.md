@@ -16,6 +16,19 @@ This video explains the contents of the EPA assessor pack used for the Digital a
 
 <br>
 
+The assessor pack acts as the central reference guide and contains:
+
+* Assessment guidance.
+* Assessment criteria.
+* KSB mapping information.
+* Standardisation materials.
+* Assessment documentation.
+* Grading guidance.
+
+The pack supports consistency and reliability across all assessors.
+
+<br>
+
 [Download Software Pathway AE1 Pack](SE_EPA_AE1_1-2_Assessor_Pack_26_v3.zip)
 
 Download Network Pathway AE1 Pack
