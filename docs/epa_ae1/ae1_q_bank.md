@@ -27,3 +27,5 @@ Questions are designed to:
 * Validate KSB achievement.
 
 Assessors are encouraged to use questions flexibly, selecting those most relevant to the apprentice's project and evidence.
+
+[All AE1 documents are in the EPA Assessor Pack](https://martinsolent.github.io/solent_epa_assessor_train/docs/epa_ae1/ae1_assessor_pack.html)

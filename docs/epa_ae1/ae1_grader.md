@@ -23,3 +23,5 @@ The grading tools help assessors:
 * Calculate and verify outcomes.
 
 The grading process is designed to ensure all apprentices are assessed fairly against the same occupational standard.
+
+[All AE1 documents are in the EPA Assessor Pack](https://martinsolent.github.io/solent_epa_assessor_train/docs/epa_ae1/ae1_assessor_pack.html)

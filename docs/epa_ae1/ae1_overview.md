@@ -28,3 +28,5 @@ The overview explains:
 * Expectations for recording evidence and rationale.
 
 A strong emphasis is placed on evaluating evidence rather than accepting statements at face value. Apprentices must demonstrate competence through documented examples, explanations, outputs and outcomes.
+
+[All AE1 documents are in the EPA Assessor Pack](https://martinsolent.github.io/solent_epa_assessor_train/docs/epa_ae1/ae1_assessor_pack.html)
