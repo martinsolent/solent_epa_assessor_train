@@ -43,3 +43,14 @@ The project should be directly linked to the apprentice's occupational role and 
 
 [EPA AE1 Guidance](https://martinsolent.github.io/solent_epa_assessor_train/docs/epa_ae1/){: .btn .btn-blue }
 [EPA AE2 Guidance](https://martinsolent.github.io/solent_epa_assessor_train/docs/epa_ae2/){: .btn .btn-purple }
+
+
+<br>
+<br>
+
+![odsted_logo](/DTS_ofated.png)
+
+[Link to 2025 Ofsted Report](https://files.ofsted.gov.uk/v1/file/50270851)
+
+<br>
+[BSc Digital and Technology Solutions Apprenticeship](https://www.solent.ac.uk/courses/apprenticeship/digital-technology-solutions-bsc)
