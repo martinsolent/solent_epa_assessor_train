@@ -1,6 +1,6 @@
 title: Solent DTS EPA Assessor Training
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-
-url: https://github.com/martinsolent/solent_epa_assessor_train
+description: EPA Assessor Training
+remote_theme: just-the-docs/just-the-docs
+plugins:
+- jekyll-remote-theme
 
