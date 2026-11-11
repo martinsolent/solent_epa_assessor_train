@@ -28,6 +28,6 @@ The pack supports consistency and reliability across all assessors.
 
 [Download Software Pathway AE2 Pack - UPDATED](SE_EPA_AE2_1-2_Assessor_Pack_26_v2.zip)
 
-Download Network Pathway AE2 Pack
+[Download Network Pathway AE2 Pack](NE_EPA_AE2_1-2_Assessor_Pack_26_v1.zip)
 
-Download Network Cyber AE2 Pack
+[Download Cyber Pathway AE2 Pack](CS_EPA_AE2_1-2_Assessor_Pack_26_v1.zip)
