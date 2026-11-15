@@ -70,15 +70,12 @@ The Excel grading spreadsheet supports assessors in determining:
 * The overall EPA outcome (Fail, Pass, or Distinction).
 * The associated numeric mark for the assessment component.
 
-{: .note }
->* The spreadsheet is designed to promote consistency in grading decisions.
->* Assessors should ensure all assessment evidence has been reviewed before entering grades.
+**Important Notes**
+* The spreadsheet is designed to promote consistency in grading decisions.
+* Assessors should ensure all assessment evidence has been reviewed before entering grades.
 * Any grades entered must accurately reflect the classifications awarded within the feedback documentation.
 * Assessors remain responsible for the final assessment decision, even when using the spreadsheet calculation tool.
 
-
-{: .note }
-To use the theme, you do
 
 
 **Degree Classification Contribution**
@@ -86,7 +83,7 @@ To use the theme, you do
 As this EPA component forms part of a credited degree programme, a numerical mark is required in addition to the EPA classification. The mark contributes to the apprentice's overall degree calculation and may influence their final degree award classification,
 
 
-Before finalising the assessment:
+**Before finalising the assessment:**
 
 * Review all evidence and notes.
 * Ensure feedback is clear, objective, and evidence-based.
