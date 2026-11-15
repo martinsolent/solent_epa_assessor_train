@@ -77,6 +77,10 @@ The Excel grading spreadsheet supports assessors in determining:
 * Assessors remain responsible for the final assessment decision, even when using the spreadsheet calculation tool.
 
 
+{: .note }
+To use the theme, you do
+
+
 **Degree Classification Contribution**
 
 As this EPA component forms part of a credited degree programme, a numerical mark is required in addition to the EPA classification. The mark contributes to the apprentice's overall degree calculation and may influence their final degree award classification,
