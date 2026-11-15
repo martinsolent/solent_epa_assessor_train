@@ -1,174 +1,60 @@
-# just-the-docs-template
+# Solent DTS EPA Assessor Training
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+This repository contains online guidance and downloadable assessor resources for the two End-Point Assessment (EPA) elements of Solent University's BSc Digital and Technology Solutions apprenticeship (ST0119 v1.2):
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+- **AE1 — Work-based Project Report, Presentation and Questions and Answers.** Assessors review the apprentice's workplace project and report, presentation, and responses to questions, then judge the evidence against the AE1 criteria and mapped Knowledge, Skills and Behaviours (KSBs).
+- **AE2 — Professional Discussion underpinned by a Portfolio.** Assessors use the apprentice's portfolio to guide a discussion about workplace practice, decisions, evidence and reflection, then judge the discussion against the AE2 criteria and mapped KSBs. The portfolio supports the discussion; it is not assessed as a written submission on its own.
 
-More specifically, the created site:
+The materials are intended to help assessors prepare for each assessment, ask relevant questions, evaluate evidence, record decisions and feedback, and apply grading consistently. Assessment decisions should be based on the apprentice's demonstrated competence and individual contribution.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
+## Assessment resources
 
-To get started with creating a site, simply:
+### AE1: Project Report, Presentation and Q&A
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Resources are in [`docs/epa_ae1/`](docs/epa_ae1/):
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](#hosting-your-docs-from-an-existing-project-repo).
+- [AE1 overview](docs/epa_ae1/index.md): apprentice-facing explanation of the assessment and assessor training resources.
+- [Project proposal sign-off](docs/epa_ae1/ae1_sign_off.md): guidance on checking that a proposed workplace project is feasible, valuable, appropriately scoped and capable of providing evidence for the required KSBs.
+- [Assessor overview](docs/epa_ae1/ae1_overview.md): guidance on reviewing project evidence and making and recording assessment judgements.
+- [Assessor pack guide](docs/epa_ae1/ae1_assessor_pack.md): explains the pack and its feedback, question-bank and grading resources.
+- [Question bank](docs/epa_ae1/ae1_q_bank.md): example questions to adapt to the apprentice's project and evidence.
+- [Feedback sheet guide](docs/epa_ae1/ae1_fb_sheet.md): recording questions, evidence, observations, feedback and decisions.
+- [Grader sheet guide](docs/epa_ae1/ae1_grader.md): applying grading criteria and recording the outcome.
 
-After completing the creation of your new site on GitHub, update it as needed:
+The folder also contains downloadable assessor packs for the **Software**, **Network** and **Cyber** pathways:
 
-## Replace the content of the template pages
+- [Software (SE)](docs/epa_ae1/SE_EPA_AE1_1-2_Assessor_Pack_26_v3.zip)
+- [Network (NE)](docs/epa_ae1/NE_EPA_AE1_1-2_Assessor_Pack_26_v1.zip)
+- [Cyber](docs/epa_ae1/CYBER_EPA_AE1_1-2_Assessor_Pack_26_v1.zip)
 
-Update the following files to your own content:
+### AE2: Professional Discussion underpinned by a Portfolio
 
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
+Resources are in [`docs/epa_ae2/`](docs/epa_ae2/):
 
-## Changing the version of the theme and/or Jekyll
+- [AE2 overview](docs/epa_ae2/index.md): explains the professional discussion, the portfolio's supporting role, and the evidence and KSBs assessed.
+- [Assessor overview](docs/epa_ae2/ae2_overview.md): guidance on preparing for and conducting the discussion, using open and probing questions, and assessing the apprentice's own contribution.
+- [Assessor pack guide](docs/epa_ae2/ae2_assessor_pack.md): explains the assessor resources and grading process.
+- [Question bank](docs/epa_ae2/ae2_q_bank.md): sample questions organised around four themes, to tailor to the apprentice's portfolio and experience.
+- [Feedback sheet guide](docs/epa_ae2/ae2_fb_sheet.md): recording questions, responses, evidence and the apprenticeship outcome.
+- [Grader sheet guide](docs/epa_ae2/ae2_grader.md): using step-marked grades to calculate the EPA outcome and degree mark.
 
-Simply edit the relevant line(s) in the `Gemfile`.
+The AE2 question bank calls for at least four questions, with follow-up and probing questions as appropriate. The feedback sheet records the apprenticeship outcome; the numeric degree mark is recorded separately in the grading sheet.
 
-## Adding a plugin
+Downloadable packs are provided for the **Software**, **Network** and **Cyber Security** pathways:
 
-The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
+- [Software (SE)](docs/epa_ae2/SE_EPA_AE2_1-2_Assessor_Pack_26_v2.zip)
+- [Network (NE)](docs/epa_ae2/NE_EPA_AE2_1-2_Assessor_Pack_26_v1.zip)
+- [Cyber Security (CS)](docs/epa_ae2/CS_EPA_AE2_1-2_Assessor_Pack_26_v1.zip)
 
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
+## Browse the training site
 
-- Add the following to your site's `Gemfile`:
+The site home page, [index.md](index.md), introduces the EPA and links to the [AE1 guidance](docs/epa_ae1/) and [AE2 guidance](docs/epa_ae2/). The guidance pages include embedded videos alongside written explanations of the assessment and its resources.
 
-  ```ruby
-  gem "jekyll-default-layout"
-  ```
+To preview the site locally, install Ruby and Bundler, then run:
 
-- And add the following to your site's `_config.yml`:
+```sh
+bundle install
+bundle exec jekyll serve
+```
 
-  ```yaml
-  plugins:
-    - jekyll-default-layout
-  ```
-
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
-
-## Publishing your site on GitHub Pages
-
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
-
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    theme: just-the-docs
-
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
-
-    aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
-    ```
-
-2.  Push your updated `_config.yml` to your site on GitHub.
-
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
-
-## Building and previewing your site locally
-
-Assuming [Jekyll] and [Bundler] are installed on your computer:
-
-1.  Change your working directory to the root directory of your site.
-
-2.  Run `bundle install`.
-
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
-
-    The built site is stored in the directory `_site`.
-
-## Publishing your built site on a different platform
-
-Just upload all the files in the directory `_site`.
-
-## Customization
-
-You're free to customize sites that you create with this template, however you like!
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-## Hosting your docs from an existing project repo
-
-You might want to maintain your docs in an existing project repo. Instead of creating a new repo using the [just-the-docs template](https://github.com/just-the-docs/just-the-docs-template), you can copy the template files into your existing repo and configure the template's Github Actions workflow to build from a `docs` directory. You can clone the template to your local machine or download the `.zip` file to access the files.
-
-### Copy the template files
-
-1.  Create a `.github/workflows` directory at your project root if your repo doesn't already have one. Copy the `pages.yml` file into this directory. GitHub Actions searches this directory for workflow files.
-
-2.  Create a `docs` directory at your project root and copy all remaining template files into this directory.
-
-### Modify the GitHub Actions workflow
-
-The GitHub Actions workflow that builds and deploys your site to Github Pages is defined by the `pages.yml` file. You'll need to edit this file to that so that your build and deploy steps look to your `docs` directory, rather than the project root.
-
-1.  Set the default `working-directory` param for the build job.
-
-    ```yaml
-    build:
-      runs-on: ubuntu-latest
-      defaults:
-        run:
-          working-directory: docs
-    ```
-
-2.  Set the `working-directory` param for the Setup Ruby step.
-
-    ```yaml
-    - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-          bundler-cache: true
-          cache-version: 0
-          working-directory: '${{ github.workspace }}/docs'
-    ```
-
-3.  Set the path param for the Upload artifact step:
-
-    ```yaml
-    - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs/_site/
-    ```
-
-4.  Modify the trigger so that only changes within the `docs` directory start the workflow. Otherwise, every change to your project (even those that don't affect the docs) would trigger a new site build and deploy.
-
-    ```yaml
-    on:
-      push:
-        branches:
-          - "main"
-        paths:
-          - "docs/**"
-    ```
-
-## Licensing and Attribution
-
-This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
-
-The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[Bundler]: https://bundler.io
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
-[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
-[MIT License]: https://en.wikipedia.org/wiki/MIT_License
-[starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
-[actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
+Open the local address printed by Jekyll in your browser. The site uses the Just the Docs theme through Jekyll's remote-theme plugin.
