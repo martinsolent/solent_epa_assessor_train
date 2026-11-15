@@ -16,6 +16,87 @@ This video explains the contents of the EPA assessor pack used for the Digital a
 
 <br>
 
+### Guidance Notes for EPA Assessors: Using the Assessor Pack and Grade Calculation Sheet
+
+These guidance notes support the presentation contained within EPA AE1 - Assessor Pack_Captions_English (United Kingdom) and are intended for EPA assessors undertaking End-Point Assessments (EPA) for the Digital and Technology Solutions Degree Apprenticeship.
+
+**Purpose of the Assessor Pack**
+
+The Assessor Pack provides all the documentation required to conduct, record, and grade the assessment fairly and consistently. Assessors will receive the pack as a zipped folder containing four key documents.
+
+**Documents Within the Assessor Pack:**
+
+**1. Assessor Feedback Sheet**
+
+The Assessor Feedback Sheet is the primary assessment record. It should be used to:
+
+* Record the questions asked during the assessment.
+* Capture the apprentice's responses and supporting evidence.
+* Document your professional judgement and evaluation of performance.
+* Provide narrative feedback on strengths and areas for improvement.
+* Confirm the overall assessment classification.
+
+
+**2. Assessment Outcome and Classification**
+
+Following the assessment, a classification must be awarded:
+
+* Fail
+* Pass
+* Distinction
+
+The classification should be based solely on the evidence presented and the requirements of the assessment criteria. Where a Fail is awarded, constructive feedback must be provided to support the apprentice's referral or resubmission.
+
+**3. Question Bank**
+
+The Question Bank provides examples of questions that meet the requirements of the apprenticeship standard. It should be viewed as a support resource rather than a fixed script.
+
+**Assessors are encouraged to:**
+
+* Use the supplied questions as a starting point.
+* Develop additional questions tailored to the apprentice's report and presentation.
+* Explore areas requiring clarification or deeper evidence.
+* Ensure questioning remains aligned to the assessment criteria.
+
+
+**4. EPA Assessor Overview Sheet**
+
+The EPA Assessor Overview Sheet contains guidance and reference information to support assessment decisions for the assessment element. Assessors should review this document before conducting the assessment to ensure familiarity with requirements and grading expectations.
+
+**Using the Grade Calculation Spreadsheet**
+
+The Excel grading spreadsheet supports assessors in determining:
+
+* The overall EPA outcome (Fail, Pass, or Distinction).
+* The associated numeric mark for the assessment component.
+
+{: .important-title }
+> Important Notes
+* The spreadsheet is designed to promote consistency in grading decisions.
+* Assessors should ensure all assessment evidence has been reviewed before entering grades.
+* Any grades entered must accurately reflect the classifications awarded within the feedback documentation.
+* Assessors remain responsible for the final assessment decision, even when using the spreadsheet calculation tool.
+
+
+
+**Degree Classification Contribution**
+
+As this EPA component forms part of a credited degree programme, a numerical mark is required in addition to the EPA classification. The mark contributes to the apprentice's overall degree calculation and may influence their final degree award classification, such as:
+
+First Class Honours
+Upper Second Class Honours (2:1)
+Lower Second Class Honours (2:2)
+Third Class Honours
+Assessor Good Practice
+
+Before finalising the assessment:
+
+Review all evidence and notes.
+Ensure feedback is clear, objective, and evidence-based.
+Confirm that the classification awarded is fully justified.
+Check that any referral feedback provides clear guidance for improvement.
+Verify that the classification recorded on the feedback sheet matches the result entered into the grading spreadsheet.
+
 The assessor pack acts as the central reference guide and contains:
 
 * Assessment guidance.
