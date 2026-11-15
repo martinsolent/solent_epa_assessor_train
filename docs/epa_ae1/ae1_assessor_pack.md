@@ -18,7 +18,7 @@ This video explains the contents of the EPA assessor pack used for the Digital a
 
 ### Guidance Notes for EPA Assessors: Using the Assessor Pack and Grade Calculation Sheet
 
-These guidance notes support the presentation contained within EPA AE1 - Assessor Pack_Captions_English (United Kingdom) and are intended for EPA assessors undertaking End-Point Assessments (EPA) for the Digital and Technology Solutions Degree Apprenticeship.
+These guidance notes support the presentation and are intended for EPA assessors undertaking End-Point Assessments (EPA) for the Digital and Technology Solutions Degree Apprenticeship.
 
 **Purpose of the Assessor Pack**
 
@@ -70,32 +70,27 @@ The Excel grading spreadsheet supports assessors in determining:
 * The overall EPA outcome (Fail, Pass, or Distinction).
 * The associated numeric mark for the assessment component.
 
+{: .note }
+* The spreadsheet is designed to promote consistency in grading decisions.
+* Assessors should ensure all assessment evidence has been reviewed before entering grades.
+* Any grades entered must accurately reflect the classifications awarded within the feedback documentation.
+* Assessors remain responsible for the final assessment decision, even when using the spreadsheet calculation tool.
 
-{: .important }
->* The spreadsheet is designed to promote consistency in grading decisions.
->* Assessors should ensure all assessment evidence has been reviewed before entering grades.
->* Any grades entered must accurately reflect the classifications awarded within the feedback documentation.
->* Assessors remain responsible for the final assessment decision, even when using the spreadsheet calculation tool.
 
 **Degree Classification Contribution**
 
-As this EPA component forms part of a credited degree programme, a numerical mark is required in addition to the EPA classification. The mark contributes to the apprentice's overall degree calculation and may influence their final degree award classification, such as:
+As this EPA component forms part of a credited degree programme, a numerical mark is required in addition to the EPA classification. The mark contributes to the apprentice's overall degree calculation and may influence their final degree award classification,
 
-First Class Honours
-Upper Second Class Honours (2:1)
-Lower Second Class Honours (2:2)
-Third Class Honours
-Assessor Good Practice
 
 Before finalising the assessment:
 
-Review all evidence and notes.
-Ensure feedback is clear, objective, and evidence-based.
-Confirm that the classification awarded is fully justified.
-Check that any referral feedback provides clear guidance for improvement.
-Verify that the classification recorded on the feedback sheet matches the result entered into the grading spreadsheet.
+* Review all evidence and notes.
+* Ensure feedback is clear, objective, and evidence-based.
+* Confirm the award is fully justified.
+* Check that any referral feedback provides clear guidance for improvement.
+* Verify that the classification recorded on the feedback sheet matches the result entered into the grading spreadsheet.
 
-The assessor pack acts as the central reference guide and contains:
+#### The assessor pack acts as the central reference guide and contains:
 
 * Assessment guidance.
 * Assessment criteria.
@@ -104,9 +99,7 @@ The assessor pack acts as the central reference guide and contains:
 * Assessment documentation.
 * Grading guidance.
 
-The pack supports consistency and reliability across all assessors.
-
-<br>
+**Download AE1 Pack:**
 
 [Download Software Pathway AE1 Pack](SE_EPA_AE1_1-2_Assessor_Pack_26_v3.zip)
 
