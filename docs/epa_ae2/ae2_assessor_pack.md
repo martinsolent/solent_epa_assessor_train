@@ -77,12 +77,11 @@ The Excel grading spreadsheet supports assessors in determining:
 * The overall EPA outcome (Fail, Pass, or Distinction).
 * The associated numeric mark for the assessment component.
 
-**Important Notes**
-* The spreadsheet is designed to promote consistency in grading decisions.
-* Assessors should ensure all assessment evidence has been reviewed before entering grades.
-* Any grades entered must accurately reflect the classifications awarded within the feedback documentation.
-* Assessors remain responsible for the final assessment decision, even when using the spreadsheet calculation tool.
-
+{: .important }
+>* The spreadsheet is designed to promote consistency in grading decisions.
+>* Assessors should ensure all assessment evidence has been reviewed before entering grades.
+>* Any grades entered must accurately reflect the classifications awarded within the feedback documentation.
+>* Assessors remain responsible for the final assessment decision, even when using the spreadsheet calculation tool.
 
 
 **Degree Classification Contribution**
@@ -107,7 +106,8 @@ As this EPA component forms part of a credited degree programme, a numerical mar
 * Assessment documentation.
 * Grading guidance.
 
-**Do not give any indication of the grade to be awarded to the apprentice at the end of the session. This is because the overall pass, merit or distinction for the EPA is aggregated across both assessment elements. In addition, the numerical value for the degree component is combined with grades from modules completed in Years 2 and 3. The final outcome will be confirmed when all grades are reviewed and approved by the Assessment Board.**
+{: .important }
+>**Do not give any indication of the grade to be awarded to the apprentice at the end of the session. This is because the overall pass, merit or distinction for the EPA is aggregated across both assessment elements. In addition, the numerical value for the degree component is combined with grades from modules completed in Years 2 and 3. The final outcome will be confirmed when all grades are reviewed and approved by the Assessment Board**
 
 **Download AE1 Pack:**
 
