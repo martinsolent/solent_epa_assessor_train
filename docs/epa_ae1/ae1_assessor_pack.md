@@ -71,8 +71,8 @@ The Excel grading spreadsheet supports assessors in determining:
 * The associated numeric mark for the assessment component.
 
 {: .note }
-* The spreadsheet is designed to promote consistency in grading decisions.
-* Assessors should ensure all assessment evidence has been reviewed before entering grades.
+>* The spreadsheet is designed to promote consistency in grading decisions.
+>* Assessors should ensure all assessment evidence has been reviewed before entering grades.
 * Any grades entered must accurately reflect the classifications awarded within the feedback documentation.
 * Assessors remain responsible for the final assessment decision, even when using the spreadsheet calculation tool.
 
@@ -90,7 +90,7 @@ Before finalising the assessment:
 * Check that any referral feedback provides clear guidance for improvement.
 * Verify that the classification recorded on the feedback sheet matches the result entered into the grading spreadsheet.
 
-#### The assessor pack acts as the central reference guide and contains:
+### The assessor pack acts as the central reference guide and contains:
 
 * Assessment guidance.
 * Assessment criteria.
