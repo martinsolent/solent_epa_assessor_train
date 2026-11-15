@@ -100,6 +100,10 @@ As this EPA component forms part of a credited degree programme, a numerical mar
 * Assessment documentation.
 * Grading guidance.
 
+
+{: .warning }
+>Do not give any indication of the grade to be awarded to the apprentice at the end of the session. This is because the overall pass, merit or distinction for the EPA is aggregated across both assessment elements. In addition, the numerical value for the degree component is combined with grades from modules completed in Years 2 and 3. The final outcome will be confirmed when all grades are reviewed and approved by the Assessment Board
+
 **Do not give any indication of the grade to be awarded to the apprentice at the end of the session. This is because the overall pass, merit or distinction for the EPA is aggregated across both assessment elements. In addition, the numerical value for the degree component is combined with grades from modules completed in Years 2 and 3. The final outcome will be confirmed when all grades are reviewed and approved by the Assessment Board.**
 
 **Download AE1 Pack:**
