@@ -110,4 +110,4 @@ As this EPA component forms part of a credited degree programme, a numerical mar
 
 [Download Network Pathway AE1 Pack](NE_EPA_AE1_1-2_Assessor_Pack_26_v1.zip)
 
-[Download Cyber Pathway AE1 Pack](CYBER_EPA_AE1_1-2_Assessor_Pack_26_v2.zip)
+[Download Cyber Pathway AE1 Pack](CYBER_EPA_AE1_1-2_Assessor_Pack_26_v1.zip)
